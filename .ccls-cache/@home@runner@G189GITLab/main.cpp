@@ -22,7 +22,7 @@ int main() {
    int startNum;
    
    cin >> startNum;  
-   cout << "Fibonacci(" << startNum << ") is " << Fibonacci(startNum) << endl;
-   
+   cout << "Fibonacci(" << startNum << ") is " << Fibonacci(startNum) << endl << endl;
+  
    return 0;
 }
